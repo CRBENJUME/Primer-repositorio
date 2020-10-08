@@ -1,2 +1,3 @@
-# Primero-repositoria
-Repositoria de prubea
+# Primer-repositorio
+Repositorio de prueba
+Carlos Alberto
